@@ -1,6 +1,4 @@
-# Neural Networks and Deep Learning Project
-Predict and classify gender and age groups of people based on faces captured in images
-
+# Gender and Age Classification Using Face Image
 This project is done for the Singapore NTU SCSE module CE4042 Neural Networks and Deep Learning. The dataset used in this project is from the [Adience Dataset](https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender). This project is also based on a published work done by G. Levi and T. Hassner.[^1]
 
 Aim of the project: With the Adience dataset, improve the classification of gender and age from the published work of G. Levi and T. Hassner.[^1]
